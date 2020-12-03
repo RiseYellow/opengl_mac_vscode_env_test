@@ -1,5 +1,5 @@
 project(opengl_test)
-cmake_minimum_required(VERSION 3.19)
+cmake_minimum_required(VERSION 3.0)
 
 include_directories(/usr/local/include)
 
